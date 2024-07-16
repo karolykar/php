@@ -55,6 +55,8 @@
 		
 		<?php echo($luca->getKor()>14?"Nagy":"Kicsi"); ?>
 		
+		<?php echo "Sziasztok!"; ?>
+		
 		</section>
 
         
